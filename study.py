@@ -10,3 +10,5 @@ except ZeroDivisionError:
     sys.exit(1)    
 print("x/y=",result)
 print("aaaa")
+print("aaaaaaaaaaaaaaaaaaaaaa")
+print("bbbbbbbbbbbbbbbbbbbb)
