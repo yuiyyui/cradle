@@ -10,3 +10,4 @@ except ZeroDivisionError:
     sys.exit(1)    
 
 print("aaaaa")
+print("bbbbbb")
